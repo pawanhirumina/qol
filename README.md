@@ -1,7 +1,5 @@
 # Quality of life
 
-tools that make my workflow faster.
-
 ## Editor
 - vscode
 - neovim
