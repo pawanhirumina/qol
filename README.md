@@ -3,8 +3,8 @@
 tools that make my workflow faster.
 
 ## Editor
-- Vscode
-- Neovim
+- vscode
+- neovim
 - tmux
 
 ## CLI
@@ -16,6 +16,9 @@ tools that make my workflow faster.
 - zshell
 
 ## Apps
+- Ptyxis (terminal)
 - FireFox
 - Chrome
 - Obsidian
+- VLC
+
